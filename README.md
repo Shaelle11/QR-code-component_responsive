@@ -14,14 +14,14 @@ Mobile - 375px
 
 ### Screenshot
 
-![](./images/desktop%20view%20screenshot.png.jpg)
+- Desktop View - (./images/desktop%20view%20screenshot.png.jpg)
 
-![](./images/mobile%20view%20screenshot.png.jpg)
+- Mobile View - (./images/mobile%20view%20screenshot.png.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [sOLUTION URL](https://www.frontendmentor.io/solutions/qr-component-card-mobile-and-desktop-view-sk0hP1j5Wa)
+- Live Site URL: [Live Url](https://shaelle11.github.io/QR-code-component_responsive/)
 
 ### Built with
 
