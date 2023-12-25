@@ -20,8 +20,8 @@ Mobile - 375px
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-component-card-mobile-and-desktop-view-sk0hP1j5Wa)
+- Live Site URL: [Live Url](https://shaelle11.github.io/QR-code-component_responsive/)
 
 ### Built with
 
