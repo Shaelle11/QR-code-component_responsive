@@ -14,9 +14,9 @@ Mobile - 375px
 
 ### Screenshot
 
-![](./images/desktop%20view%20screenshot.png.jpg)
+- Desktop View - (./images/desktop%20view%20screenshot.png.jpg)
 
-![](./images/mobile%20view%20screenshot.png.jpg)
+- Mobile View - (./images/mobile%20view%20screenshot.png.jpg)
 
 ### Links
 
